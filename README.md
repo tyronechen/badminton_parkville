@@ -1,2 +1,1 @@
-# parkville_badminton
-Parkville badminton signups
+# Inter-institute badminton signups
